@@ -1,2 +1,4 @@
-# minizinc-examples
-Some examples using MiniZinc to solve constraints problems
+# MINIZINC EXAMPLES
+
+Below are some examples of restrictions problems solved using MiniZinc
+https://www.minizinc.org/
